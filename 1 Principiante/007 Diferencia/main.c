@@ -1,3 +1,7 @@
+/*
+	Juda Alector, 14 de Enero 2018.
+	León, Guanajuato. México.
+*/
 #include <stdio.h>
 void main(){
 	int a = 0,

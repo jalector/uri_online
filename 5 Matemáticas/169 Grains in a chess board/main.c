@@ -1,9 +1,12 @@
+/*
+	Juda Alector, 13 de Enero 2018.
+	León, Guanajuato. México.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 
-int main(){
-	
+int main(){	
 	int int_times = 0;
 	scanf("%d",&int_times);
 	if(int_times > 0 && int_times < 101){

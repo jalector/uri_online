@@ -1,3 +1,7 @@
+/*
+	Juda Alector, 14 de Enero 2018.
+	León, Guanajuato. México.
+*/
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.InputStreamReader;
